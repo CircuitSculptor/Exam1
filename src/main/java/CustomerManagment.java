@@ -26,5 +26,7 @@ public class CustomerManagment {
             System.out.println("Please enter your phone number: ");
             details.add(sc.nextLine());
         }
+
+        details.get(1);
     }
 }
